@@ -36,4 +36,4 @@ Run file **Latihan2ServiceApplication.java**.
 
 Beberapa baris terakhir di sini memberi tahu kami bahwa Spring telah dimulai. Server Apache Tomcat tertanam pada Spring Boot bertindak sebagai server web dan mendengarkan permintaan pada `localhost` port `8011`. Buka browser Anda dan di bilah alamat di bagian atas enter `http://localhost:8011/hello`. Anda harus mendapatkan respons ramah yang bagus seperti ini:
 
-
+![Screenshot 2022-09-26 224927](https://user-images.githubusercontent.com/113502265/192322731-1d72794e-65b4-4984-b3b1-38a531ad4fcb.png)

@@ -32,8 +32,8 @@ Anotasi `@RestController` memberi tahu Spring bahwa kode ini menjelaskan titik a
 #### Langkah 3:
 Run file **Latihan2ServiceApplication.java**.
 
-
+![Screenshot 2022-09-26 224743](https://user-images.githubusercontent.com/113502265/192322426-5602de91-3149-4460-9b47-b678a3107a95.png)
 
 Beberapa baris terakhir di sini memberi tahu kami bahwa Spring telah dimulai. Server Apache Tomcat tertanam pada Spring Boot bertindak sebagai server web dan mendengarkan permintaan pada `localhost` port `8011`. Buka browser Anda dan di bilah alamat di bagian atas enter `http://localhost:8011/hello`. Anda harus mendapatkan respons ramah yang bagus seperti ini:
 
-![Screenshot 2022-09-26 222057](https://user-images.githubusercontent.com/113502265/192316990-fed70b74-5f0d-4052-b878-b3a5bea30467.png)
+
